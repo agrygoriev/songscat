@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://agrygoriev:smMuooXur5lGxeJJ@cluster0.t5pqw.mongodb.net/songscat?retryWrites=true&w=majority",
+  "user": "agrygoriev",
+  "password": "smMuooXur5lGxeJJ" 
+}
